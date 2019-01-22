@@ -1,4 +1,4 @@
-^README\.Rmd$
+^docs$
 Makefile
 ^\.travis\.yml$
 ^Prueba3\.Rproj$
