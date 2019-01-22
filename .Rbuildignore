@@ -1,3 +1,5 @@
+^README\.Rmd$
+Makefile
 ^\.travis\.yml$
 ^Prueba3\.Rproj$
 ^\.Rproj\.user$
