@@ -17,9 +17,9 @@ Este paquete suma dos numeros
 library(Prueba3) # Prueba3 porque asi se le puso de nombre al 
                  # paquete en el archivo DESCRIPTION
 a = 5
-b = 7
+b = 7 
 suma(a,b)  # Para que encuentre la funcion 
-           # antes de correr este documento hay que escribir
+           # antes de correr este documento hay que                   # escribir
            # en la consola:
            #  library(Prueba3)
            #  devtools::install()

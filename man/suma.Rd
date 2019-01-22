@@ -22,3 +22,8 @@ la tercera linea seran los detalles.
 \details{
 Esta funcion suma dos numeros
 }
+\examples{
+suma(1, 1)
+suma(10, 1)
+
+}
