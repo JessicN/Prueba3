@@ -11,9 +11,11 @@
 #'
 #' @return  retorna un numero
 #'
-#' @export
+#' @examples
+#' suma(1, 1)
+#' suma(10, 1)
 #'
-
+#' @export
 
 suma <- function(a,b){
   c <- a+b
