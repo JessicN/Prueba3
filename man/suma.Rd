@@ -20,5 +20,5 @@ la segunda linea es la descripcion de lo que hace la funcion y
 la tercera linea seran los detalles.
 }
 \details{
-Esta funcion suma dos nu\'meros
+Esta funcion suma dos numeros
 }
