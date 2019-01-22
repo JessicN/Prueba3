@@ -14,7 +14,7 @@ vignette: >
 Este paquete suma dos numeros
 
 ```{r}
-library(Prueba3) # Prueba3 porque así se le puso de nombre al 
+library(Prueba3) # Prueba3 porque asi se le puso de nombre al 
                  # paquete en el archivo DESCRIPTION
 a = 5
 b = 7

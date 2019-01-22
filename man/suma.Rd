@@ -2,7 +2,7 @@
 % Please edit documentation in R/suma.R
 \name{suma}
 \alias{suma}
-\title{Suma de dos nu\'meros}
+\title{Suma de dos numeros}
 \usage{
 suma(a, b)
 }
@@ -15,10 +15,10 @@ suma(a, b)
 retorna un numero
 }
 \description{
-Se usa este espacio para documentar la funcion, primero el título,
-la segunda línea es la descripción de lo que hace la función y
-la tercera línea serán los detalles.
+Se usa este espacio para documentar la funcion, primero el titulo,
+la segunda linea es la descripcion de lo que hace la funcion y
+la tercera linea seran los detalles.
 }
 \details{
-Esta funcion suma dos numeros
+Esta funcion suma dos nu\'meros
 }

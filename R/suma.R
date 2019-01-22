@@ -1,8 +1,8 @@
-#' Suma de dos nu\'meros
+#' Suma de dos numeros
 #'
-#'Se usa este espacio para documentar la funcion, primero el título,
-#'la segunda línea es la descripción de lo que hace la función y
-#'la tercera línea serán los detalles.
+#'Se usa este espacio para documentar la funcion, primero el titulo,
+#'la segunda linea es la descripcion de lo que hace la funcion y
+#'la tercera linea seran los detalles.
 #'
 #' Esta funcion suma dos numeros
 #'
@@ -19,3 +19,5 @@ suma <- function(a,b){
   c <- a+b
   c
 }
+
+

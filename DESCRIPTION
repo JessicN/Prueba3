@@ -1,8 +1,8 @@
 Package: Prueba3
-Title: Creación nuevo paquete suma
+Title: Creacion nuevo paquete suma
 Version: 0.0.0.9000
 Authors@R: person("Jessica", "Pulzara", email = "jpulzara@unal.edu.co", role = c("aut", "cre"))
-Description: El paquete realiza la suma de dos números.
+Description: El paquete realiza la suma de dos numeros.
 Depends: R (>= 3.5.1)
 License: What license is it under?
 Encoding: UTF-8
